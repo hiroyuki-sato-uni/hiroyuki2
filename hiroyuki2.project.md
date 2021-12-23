@@ -2,7 +2,6 @@
 test1
 
 ### Test Project Description
-y
 
 ### Platform
-yes
+- yes
