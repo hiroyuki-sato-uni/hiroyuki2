@@ -2,14 +2,14 @@
 testcase1
 
 ### Summary
-hf
+test
+
 ### Precondition
-testdesu
-www
-
-ttt
-
+test
 
 ### Step
 | アクション | 期待結果 |
 |---|---|
+| Action1 | Result1 |
+| Action2 | Result2 |
+| Action3 | Result3 |
