@@ -2,7 +2,10 @@
 test1
 
 ### Test Project Description
-testetete
+test
 
 ### Platform
-- no
+- Google Chrome
+- Microsoft Edge
+- Firefox
+- Safari
