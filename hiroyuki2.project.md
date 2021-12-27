@@ -2,10 +2,8 @@
 hiroyuki2
 
 ### Test Project Description
-test
+test2
 
 ### Platform
-- Google Chrome
-- Microsoft Edge
 - Firefox
 - Safari
