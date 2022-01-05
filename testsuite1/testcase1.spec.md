@@ -5,7 +5,10 @@ testcase1!!!
 test2
 
 ### Precondition
-test2
+| col1 | col2 |
+|---|---|
+| col1-row1 | col2-row1 |
+| col1-row2 | col2-row2 |
 
 ### Step
 | アクション | 期待結果 |
@@ -13,3 +16,4 @@ test2
 | - list1 - list2 | <ul><li>[ ] OK<li> [ ] NG</ul> |
 | - list1<br > - list2 | Result2-1 |
 | Action3-1 | Result3-1 |
+
