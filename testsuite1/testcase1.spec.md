@@ -14,6 +14,6 @@ test2
 | アクション | 期待結果 |
 |---|---|
 | - list1 - list2 | <ul><li>[ ] OK<li> [ ] NG</ul> |
-| - list1<br > - list2 | Result2-1 |
+| - list1<br > - list2 | **Result2-1** |
 | Action3-1 | Result3-1 |
 
