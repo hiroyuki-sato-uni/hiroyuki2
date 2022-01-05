@@ -10,6 +10,9 @@ test2
 ### Step
 | アクション | 期待結果 |
 |---|---|
-| Action1-1 | Result1-1 |
+| - list1 - list2 | <ul><li>[ ] OK<li> [ ] NG</ul> |
 | Action2-1 | Result2-1 |
-| Action3-1 | Result3-1 |
+| Action3-1 | - これはひとつめの箇条書き
+ - ふたつめの箇条書き
+     - 一つ階層が深い箇条書き
+ - みっつめの箇条書き |
