@@ -2,7 +2,6 @@
 testcase1!!!
 
 ### Summary
-test2
 
 ### Precondition
 | col1 | col2 |
