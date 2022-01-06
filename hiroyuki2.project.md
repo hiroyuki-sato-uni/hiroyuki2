@@ -1,5 +1,5 @@
 ### Test Project Name
-sato_hiro2
+hiro2
 
 ### Test Project Description
 - test2
