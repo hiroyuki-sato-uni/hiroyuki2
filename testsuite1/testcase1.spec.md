@@ -22,8 +22,3 @@ bold
 
 
 ### Step
-| アクション | 期待結果 |
-|---|---|
-| - list1 - list2 - list3 | <ul><li>[ ] OK<li> [ ] NG</ul> |
-| - list1<br > - list2 | **Result2-1** |
-| Action3-1 | Result3-1 |
