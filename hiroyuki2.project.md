@@ -6,5 +6,6 @@ hiro2
 - test3
 
 ### Platform
-- Firefox
+- Firefox!!
 - Safari
+- google
