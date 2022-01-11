@@ -1,11 +1,12 @@
 ### Test Project Name
-hiro2
+LMIS
 
 ### Test Project Description
 - test2
 - test3
 
 ### Platform
-- Firefox!!
+- Firefox
 - Safari
-- google
+- Google Chtome
+- Microsoft Edge
